@@ -1,0 +1,17 @@
+{
+  "version": "import-test-v1",
+  "entries": [
+    {
+      "canonical": "Import fixture term",
+      "language": "en",
+      "intent": "fixture_intent",
+      "service_area": "fixture_area",
+      "page_label": "Fixture page",
+      "navigation_path": "Fixture > Fixture page",
+      "source_reference": "chatbot/tests/fixtures/lexicon_import_valid.json",
+      "provenance": "Automated importer test fixture only.",
+      "verification_status": "pending",
+      "translation_status": "missing"
+    }
+  ]
+}
